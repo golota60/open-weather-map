@@ -1,6 +1,10 @@
 # Installation
 
-In the root directory of the projekt create a `.env` file and fill REACT_APP_OPENWEATHER_KEY with your key.
+In the root directory of the projekt create a `.env` file and fill it with the following
+
+```
+REACT_APP_OPENWEATHER_KEY: <YOUR_OPENWEATHER_KEY>
+```
 
 Then,
 
